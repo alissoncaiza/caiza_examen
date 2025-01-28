@@ -1,7 +1,0 @@
-com\example\asignacionservice\client\EquipoMedicoClient.class
-com\example\asignacionservice\repository\HospitalEquipoRepository.class
-com\example\asignacionservice\service\AsignacionService.class
-com\example\asignacionservice\AsignacionServiceApplication.class
-com\example\asignacionservice\controller\AsignacionController.class
-com\example\asignacionservice\client\HospitalClient.class
-com\example\asignacionservice\model\HospitalEquipo.class
